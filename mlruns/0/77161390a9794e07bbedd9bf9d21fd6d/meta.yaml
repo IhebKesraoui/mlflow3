@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nanoz-admin/Documents/projectmlflow/mlflow%20dagshub/mlflowexperiments/mlruns/0/77161390a9794e07bbedd9bf9d21fd6d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77161390a9794e07bbedd9bf9d21fd6d
+run_name: victorious-quail-358
+run_uuid: 77161390a9794e07bbedd9bf9d21fd6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718199065929
+status: 1
+tags: []
+user_id: nanoz-admin
